@@ -1,0 +1,85 @@
+﻿RecordID,Timestamp,Zone,AssetType,AssetID,OperationalPurpose,UserRole,OperationType,SystemComponent,AccessedReport,ServiceImpact,SafetyImpact
+ACT001,2026-03-01 06:00,West,Dispatch Control System,DCS-01,Document Delivery,Operator,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Minor,Severe
+ACT002,2026-03-01 06:30,North,UAV Fleet,UAV-01,Passenger Routing,Citizen,Flight Operation,UAV Fleet,Telemetry Report,Moderate,Minor
+ACT003,2026-03-01 07:00,West,UAV Fleet,UAV-01,Emergency Response,Operator,Flight Operation,UAV Fleet,Telemetry Report,Moderate,Minor
+ACT004,2026-03-01 07:30,North,Antenna Infrastructure,ANT-01,Emergency Response,Citizen,Comms Relay,Antenna Infrastructure,Maintenance Report,Minor,Moderate
+ACT005,2026-03-01 08:00,North,Security Monitoring System,SOC-01,Routine Mobility,Citizen,Monitoring,Security Monitoring System,SOC Alert Feed,Severe,High
+ACT006,2026-03-01 08:30,North,UAV Fleet,UAV-01,Document Delivery,Citizen,Flight Operation,UAV Fleet,Telemetry Report,Moderate,High
+ACT007,2026-03-01 09:00,North,Administrative Control System,ADM-01,Document Delivery,Citizen,Admin Oversight,Administrative Control System,Admin Access Log,Major,Severe
+ACT008,2026-03-01 09:30,North,Operational Data & Telemetry,DAT-01,Document Delivery,Citizen,Telemetry Consolidation,Operational Data & Telemetry,Telemetry Report,Severe,Moderate
+ACT009,2026-03-01 10:00,North,Dispatch Control System,DCS-01,Medication Delivery,Citizen,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Minor,Severe
+ACT010,2026-03-01 10:30,West,UAV Fleet,UAV-02,Emergency Response,SOC Analyst,Flight Operation,UAV Fleet,Telemetry Report,Major,Severe
+ACT011,2026-03-01 11:00,East,Administrative Control System,ADM-01,Passenger Routing,Admin,Admin Oversight,Administrative Control System,Admin Access Log,Moderate,Moderate
+ACT012,2026-03-01 11:30,East,UAV Fleet,UAV-01,Routine Mobility,Citizen,Flight Operation,UAV Fleet,Telemetry Report,Major,High
+ACT013,2026-03-01 12:00,East,Security Monitoring System,SOC-01,Emergency Response,Citizen,Monitoring,Security Monitoring System,SOC Alert Feed,Minor,Minor
+ACT014,2026-03-01 12:30,South,Antenna Infrastructure,ANT-01,Emergency Response,SOC Analyst,Comms Relay,Antenna Infrastructure,Maintenance Report,Moderate,High
+ACT015,2026-03-01 13:00,North,Administrative Control System,ADM-01,Medication Delivery,Citizen,Admin Oversight,Administrative Control System,Admin Access Log,Severe,High
+ACT016,2026-03-01 13:30,West,Dispatch Control System,DCS-01,Passenger Routing,Citizen,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Major,Minor
+ACT017,2026-03-01 14:00,East,Operational Data & Telemetry,DAT-01,Medication Delivery,Technician,Telemetry Consolidation,Operational Data & Telemetry,Telemetry Report,Minor,Minor
+ACT018,2026-03-01 14:30,West,Security Monitoring System,SOC-01,Passenger Routing,SOC Analyst,Monitoring,Security Monitoring System,SOC Alert Feed,Major,High
+ACT019,2026-03-01 15:00,East,UAV Fleet,UAV-01,Emergency Response,Admin,Flight Operation,UAV Fleet,Telemetry Report,Severe,Minor
+ACT020,2026-03-01 15:30,South,Administrative Control System,ADM-01,Medication Delivery,SOC Analyst,Admin Oversight,Administrative Control System,Admin Access Log,Moderate,Moderate
+ACT021,2026-03-01 16:00,West,Administrative Control System,ADM-01,Emergency Response,Operator,Admin Oversight,Administrative Control System,Admin Access Log,Moderate,High
+ACT022,2026-03-01 16:30,East,Administrative Control System,ADM-01,Routine Mobility,Admin,Admin Oversight,Administrative Control System,Admin Access Log,Major,Severe
+ACT023,2026-03-01 17:00,East,Dispatch Control System,DCS-01,Emergency Response,Technician,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Moderate,Moderate
+ACT024,2026-03-01 17:30,South,UAV Fleet,UAV-01,Document Delivery,Admin,Flight Operation,UAV Fleet,Telemetry Report,Moderate,Minor
+ACT025,2026-03-01 18:00,South,Administrative Control System,ADM-01,Routine Mobility,SOC Analyst,Admin Oversight,Administrative Control System,Admin Access Log,Major,Minor
+ACT026,2026-03-01 18:30,East,UAV Fleet,UAV-02,Emergency Response,Citizen,Flight Operation,UAV Fleet,Telemetry Report,Severe,High
+ACT027,2026-03-01 19:00,North,UAV Fleet,UAV-02,Routine Mobility,Technician,Flight Operation,UAV Fleet,Telemetry Report,Severe,High
+ACT028,2026-03-01 19:30,West,Administrative Control System,ADM-01,Emergency Response,Operator,Admin Oversight,Administrative Control System,Admin Access Log,Major,High
+ACT029,2026-03-01 20:00,North,UAV Fleet,UAV-01,Document Delivery,Admin,Flight Operation,UAV Fleet,Telemetry Report,Major,Moderate
+ACT030,2026-03-01 20:30,North,UAV Fleet,UAV-01,Passenger Routing,Operator,Flight Operation,UAV Fleet,Telemetry Report,Minor,Severe
+ACT031,2026-03-01 21:00,North,UAV Fleet,UAV-02,Routine Mobility,SOC Analyst,Flight Operation,UAV Fleet,Telemetry Report,Severe,Minor
+ACT032,2026-03-01 21:30,West,UAV Fleet,UAV-01,Document Delivery,Admin,Flight Operation,UAV Fleet,Telemetry Report,Major,High
+ACT033,2026-03-01 22:00,West,Antenna Infrastructure,ANT-01,Passenger Routing,Operator,Comms Relay,Antenna Infrastructure,Maintenance Report,Minor,High
+ACT034,2026-03-01 22:30,West,Administrative Control System,ADM-01,Emergency Response,SOC Analyst,Admin Oversight,Administrative Control System,Admin Access Log,Minor,Moderate
+ACT035,2026-03-01 23:00,East,UAV Fleet,UAV-01,Passenger Routing,Technician,Flight Operation,UAV Fleet,Telemetry Report,Moderate,Severe
+ACT036,2026-03-01 23:30,East,UAV Fleet,UAV-01,Document Delivery,Admin,Flight Operation,UAV Fleet,Telemetry Report,Severe,Minor
+ACT037,2026-03-02 00:00,East,Operational Data & Telemetry,DAT-01,Routine Mobility,Operator,Telemetry Consolidation,Operational Data & Telemetry,Telemetry Report,Major,Severe
+ACT038,2026-03-02 00:30,East,Dispatch Control System,DCS-01,Document Delivery,Admin,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Severe,Severe
+ACT039,2026-03-02 01:00,East,Operational Data & Telemetry,DAT-01,Routine Mobility,Admin,Telemetry Consolidation,Operational Data & Telemetry,Telemetry Report,Severe,Moderate
+ACT040,2026-03-02 01:30,West,Operational Data & Telemetry,DAT-01,Document Delivery,Admin,Telemetry Consolidation,Operational Data & Telemetry,Telemetry Report,Moderate,Severe
+ACT041,2026-03-02 02:00,North,Administrative Control System,ADM-01,Passenger Routing,Operator,Admin Oversight,Administrative Control System,Admin Access Log,Major,High
+ACT042,2026-03-02 02:30,East,Dispatch Control System,DCS-01,Document Delivery,Technician,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Major,High
+ACT043,2026-03-02 03:00,North,UAV Fleet,UAV-01,Document Delivery,Admin,Flight Operation,UAV Fleet,Telemetry Report,Major,Moderate
+ACT044,2026-03-02 03:30,West,Dispatch Control System,DCS-01,Document Delivery,Citizen,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Severe,Minor
+ACT045,2026-03-02 04:00,North,Administrative Control System,ADM-01,Passenger Routing,Operator,Admin Oversight,Administrative Control System,Admin Access Log,Major,Moderate
+ACT046,2026-03-02 04:30,West,Administrative Control System,ADM-01,Document Delivery,SOC Analyst,Admin Oversight,Administrative Control System,Admin Access Log,Minor,High
+ACT047,2026-03-02 05:00,North,Administrative Control System,ADM-01,Emergency Response,Admin,Admin Oversight,Administrative Control System,Admin Access Log,Moderate,Moderate
+ACT048,2026-03-02 05:30,West,UAV Fleet,UAV-01,Document Delivery,Admin,Flight Operation,UAV Fleet,Telemetry Report,Severe,Severe
+ACT049,2026-03-02 06:00,South,Administrative Control System,ADM-01,Passenger Routing,Citizen,Admin Oversight,Administrative Control System,Admin Access Log,Severe,Moderate
+ACT050,2026-03-02 06:30,North,UAV Fleet,UAV-01,Medication Delivery,Citizen,Flight Operation,UAV Fleet,Telemetry Report,Moderate,High
+ACT051,2026-03-02 07:00,South,Operational Data & Telemetry,DAT-01,Document Delivery,Operator,Telemetry Consolidation,Operational Data & Telemetry,Telemetry Report,Major,Moderate
+ACT052,2026-03-02 07:30,South,Dispatch Control System,DCS-01,Routine Mobility,Citizen,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Major,High
+ACT053,2026-03-02 08:00,South,Antenna Infrastructure,ANT-01,Emergency Response,Operator,Comms Relay,Antenna Infrastructure,Maintenance Report,Major,High
+ACT054,2026-03-02 08:30,West,Security Monitoring System,SOC-01,Routine Mobility,Citizen,Monitoring,Security Monitoring System,SOC Alert Feed,Moderate,Severe
+ACT055,2026-03-02 09:00,North,UAV Fleet,UAV-02,Routine Mobility,Technician,Flight Operation,UAV Fleet,Telemetry Report,Moderate,Severe
+ACT056,2026-03-02 09:30,South,UAV Fleet,UAV-01,Document Delivery,Admin,Flight Operation,UAV Fleet,Telemetry Report,Major,Severe
+ACT057,2026-03-02 10:00,North,Security Monitoring System,SOC-01,Medication Delivery,SOC Analyst,Monitoring,Security Monitoring System,SOC Alert Feed,Severe,Severe
+ACT058,2026-03-02 10:30,North,Antenna Infrastructure,ANT-01,Emergency Response,Citizen,Comms Relay,Antenna Infrastructure,Maintenance Report,Minor,Moderate
+ACT059,2026-03-02 11:00,North,UAV Fleet,UAV-02,Passenger Routing,Operator,Flight Operation,UAV Fleet,Telemetry Report,Severe,High
+ACT060,2026-03-02 11:30,North,Antenna Infrastructure,ANT-01,Medication Delivery,Technician,Comms Relay,Antenna Infrastructure,Maintenance Report,Major,Severe
+ACT061,2026-03-02 12:00,South,Antenna Infrastructure,ANT-01,Routine Mobility,SOC Analyst,Comms Relay,Antenna Infrastructure,Maintenance Report,Major,Severe
+ACT062,2026-03-02 12:30,South,Antenna Infrastructure,ANT-01,Emergency Response,Citizen,Comms Relay,Antenna Infrastructure,Maintenance Report,Major,Severe
+ACT063,2026-03-02 13:00,South,UAV Fleet,UAV-02,Emergency Response,Technician,Flight Operation,UAV Fleet,Telemetry Report,Minor,High
+ACT064,2026-03-02 13:30,North,Administrative Control System,ADM-01,Passenger Routing,Admin,Admin Oversight,Administrative Control System,Admin Access Log,Major,Minor
+ACT065,2026-03-02 14:00,North,UAV Fleet,UAV-02,Passenger Routing,Admin,Flight Operation,UAV Fleet,Telemetry Report,Major,Moderate
+ACT066,2026-03-02 14:30,West,Dispatch Control System,DCS-01,Document Delivery,Admin,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Minor,High
+ACT067,2026-03-02 15:00,South,Administrative Control System,ADM-01,Document Delivery,Admin,Admin Oversight,Administrative Control System,Admin Access Log,Major,Severe
+ACT068,2026-03-02 15:30,West,Administrative Control System,ADM-01,Passenger Routing,Admin,Admin Oversight,Administrative Control System,Admin Access Log,Major,High
+ACT069,2026-03-02 16:00,North,UAV Fleet,UAV-01,Passenger Routing,SOC Analyst,Flight Operation,UAV Fleet,Telemetry Report,Severe,High
+ACT070,2026-03-02 16:30,West,Administrative Control System,ADM-01,Medication Delivery,SOC Analyst,Admin Oversight,Administrative Control System,Admin Access Log,Severe,Severe
+ACT071,2026-03-02 17:00,North,Dispatch Control System,DCS-01,Routine Mobility,Operator,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Moderate,Minor
+ACT072,2026-03-02 17:30,East,UAV Fleet,UAV-01,Passenger Routing,Operator,Flight Operation,UAV Fleet,Telemetry Report,Moderate,High
+ACT073,2026-03-02 18:00,West,Operational Data & Telemetry,DAT-01,Document Delivery,SOC Analyst,Telemetry Consolidation,Operational Data & Telemetry,Telemetry Report,Major,Moderate
+ACT074,2026-03-02 18:30,West,Antenna Infrastructure,ANT-01,Routine Mobility,SOC Analyst,Comms Relay,Antenna Infrastructure,Maintenance Report,Minor,High
+ACT075,2026-03-02 19:00,West,UAV Fleet,UAV-01,Document Delivery,Operator,Flight Operation,UAV Fleet,Telemetry Report,Major,Minor
+ACT076,2026-03-02 19:30,East,Security Monitoring System,SOC-01,Medication Delivery,Operator,Monitoring,Security Monitoring System,SOC Alert Feed,Severe,Moderate
+ACT077,2026-03-02 20:00,North,UAV Fleet,UAV-01,Passenger Routing,Technician,Flight Operation,UAV Fleet,Telemetry Report,Minor,High
+ACT078,2026-03-02 20:30,East,Antenna Infrastructure,ANT-01,Emergency Response,Citizen,Comms Relay,Antenna Infrastructure,Maintenance Report,Moderate,Minor
+ACT079,2026-03-02 21:00,North,Antenna Infrastructure,ANT-01,Document Delivery,Admin,Comms Relay,Antenna Infrastructure,Maintenance Report,Major,Minor
+ACT080,2026-03-02 21:30,East,UAV Fleet,UAV-02,Document Delivery,SOC Analyst,Flight Operation,UAV Fleet,Telemetry Report,Severe,Moderate
+ACT081,2026-03-02 22:00,South,Dispatch Control System,DCS-01,Emergency Response,SOC Analyst,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Major,Minor
+ACT082,2026-03-02 22:30,North,Dispatch Control System,DCS-01,Medication Delivery,Operator,Dispatch Coordination,Dispatch Control System,Dispatch Dashboard,Severe,Severe
+ACT083,2026-03-02 23:00,West,UAV Fleet,UAV-02,Routine Mobility,Admin,Flight Operation,UAV Fleet,Telemetry Report,Major,Minor
+ACT084,2026-03-02 23:30,West,Security Monitoring System,SOC-01,Emergency Response,Citizen,Monitoring,Security Monitoring System,SOC Alert Feed,Major,Severe

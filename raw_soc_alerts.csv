@@ -1,0 +1,64 @@
+﻿AlertID,Timestamp,Zone,AssetType,AssetID,ThreatEvent,ThreatSource,AlertSeverity,ObservedIssue,AccessedReport
+ALT001,2026-03-01 06:00,North,Administrative Control System,ADM-01,Administrative System Compromise,External attacker,High,Repeated failed privileged logins,Admin Access Log
+ALT002,2026-03-01 07:00,South,Dispatch Control System,DCS-01,Dispatch Control Server Disruption,Network attacker,Critical,Dispatch queue outage,Dispatch Dashboard
+ALT003,2026-03-01 08:00,East,Communication Network,COM-01,UAV Communication Interference,RF attacker,High,Telemetry loss / signal degradation,Telemetry Report
+ALT004,2026-03-01 09:00,West,Antenna Infrastructure,ANT-01,Antenna Infrastructure Compromise,Insider / physical attacker,Medium,Antenna node tamper alert,Maintenance Report
+ALT005,2026-03-01 10:00,North,Security Monitoring System,SOC-01,SOC Monitoring System Failure,Skilled attacker,Medium,Alert feed disruption,SOC Alert Feed
+ALT006,2026-03-01 11:00,South,UAV Fleet,UAV-07,UAV Navigation Manipulation,GPS spoofing attacker,High,Navigation drift anomaly,Telemetry Report
+ALT007,2026-03-01 12:00,East,Operational Data & Telemetry,DAT-01,Operational Data Manipulation,Malicious insider,Medium,Telemetry mismatch detected,Telemetry Report
+ALT008,2026-03-01 13:00,West,Administrative Control System,ADM-01,Administrative System Compromise,External attacker,High,Repeated failed privileged logins,Admin Access Log
+ALT009,2026-03-01 14:00,North,Dispatch Control System,DCS-01,Dispatch Control Server Disruption,Network attacker,Critical,Dispatch queue outage,Dispatch Dashboard
+ALT010,2026-03-01 15:00,South,Communication Network,COM-01,UAV Communication Interference,RF attacker,High,Telemetry loss / signal degradation,Telemetry Report
+ALT011,2026-03-01 16:00,East,Antenna Infrastructure,ANT-01,Antenna Infrastructure Compromise,Insider / physical attacker,Medium,Antenna node tamper alert,Maintenance Report
+ALT012,2026-03-01 17:00,West,Security Monitoring System,SOC-01,SOC Monitoring System Failure,Skilled attacker,Medium,Alert feed disruption,SOC Alert Feed
+ALT013,2026-03-01 18:00,North,UAV Fleet,UAV-07,UAV Navigation Manipulation,GPS spoofing attacker,High,Navigation drift anomaly,Telemetry Report
+ALT014,2026-03-01 19:00,South,Operational Data & Telemetry,DAT-01,Operational Data Manipulation,Malicious insider,Medium,Telemetry mismatch detected,Telemetry Report
+ALT015,2026-03-01 20:00,East,Administrative Control System,ADM-01,Administrative System Compromise,External attacker,High,Repeated failed privileged logins,Admin Access Log
+ALT016,2026-03-01 21:00,West,Dispatch Control System,DCS-01,Dispatch Control Server Disruption,Network attacker,Critical,Dispatch queue outage,Dispatch Dashboard
+ALT017,2026-03-01 22:00,North,Communication Network,COM-01,UAV Communication Interference,RF attacker,High,Telemetry loss / signal degradation,Telemetry Report
+ALT018,2026-03-01 23:00,South,Antenna Infrastructure,ANT-01,Antenna Infrastructure Compromise,Insider / physical attacker,Medium,Antenna node tamper alert,Maintenance Report
+ALT019,2026-03-02 00:00,East,Security Monitoring System,SOC-01,SOC Monitoring System Failure,Skilled attacker,Medium,Alert feed disruption,SOC Alert Feed
+ALT020,2026-03-02 01:00,West,UAV Fleet,UAV-07,UAV Navigation Manipulation,GPS spoofing attacker,High,Navigation drift anomaly,Telemetry Report
+ALT021,2026-03-02 02:00,North,Operational Data & Telemetry,DAT-01,Operational Data Manipulation,Malicious insider,Medium,Telemetry mismatch detected,Telemetry Report
+ALT022,2026-03-02 03:00,South,Administrative Control System,ADM-01,Administrative System Compromise,External attacker,High,Repeated failed privileged logins,Admin Access Log
+ALT023,2026-03-02 04:00,East,Dispatch Control System,DCS-01,Dispatch Control Server Disruption,Network attacker,Critical,Dispatch queue outage,Dispatch Dashboard
+ALT024,2026-03-02 05:00,West,Communication Network,COM-01,UAV Communication Interference,RF attacker,High,Telemetry loss / signal degradation,Telemetry Report
+ALT025,2026-03-02 06:00,North,Antenna Infrastructure,ANT-01,Antenna Infrastructure Compromise,Insider / physical attacker,Medium,Antenna node tamper alert,Maintenance Report
+ALT026,2026-03-02 07:00,South,Security Monitoring System,SOC-01,SOC Monitoring System Failure,Skilled attacker,Medium,Alert feed disruption,SOC Alert Feed
+ALT027,2026-03-02 08:00,East,UAV Fleet,UAV-07,UAV Navigation Manipulation,GPS spoofing attacker,High,Navigation drift anomaly,Telemetry Report
+ALT028,2026-03-02 09:00,West,Operational Data & Telemetry,DAT-01,Operational Data Manipulation,Malicious insider,Medium,Telemetry mismatch detected,Telemetry Report
+ALT029,2026-03-02 10:00,North,Administrative Control System,ADM-01,Administrative System Compromise,External attacker,High,Repeated failed privileged logins,Admin Access Log
+ALT030,2026-03-02 11:00,South,Dispatch Control System,DCS-01,Dispatch Control Server Disruption,Network attacker,Critical,Dispatch queue outage,Dispatch Dashboard
+ALT031,2026-03-02 12:00,East,Communication Network,COM-01,UAV Communication Interference,RF attacker,High,Telemetry loss / signal degradation,Telemetry Report
+ALT032,2026-03-02 13:00,West,Antenna Infrastructure,ANT-01,Antenna Infrastructure Compromise,Insider / physical attacker,Medium,Antenna node tamper alert,Maintenance Report
+ALT033,2026-03-02 14:00,North,Security Monitoring System,SOC-01,SOC Monitoring System Failure,Skilled attacker,Medium,Alert feed disruption,SOC Alert Feed
+ALT034,2026-03-02 15:00,South,UAV Fleet,UAV-07,UAV Navigation Manipulation,GPS spoofing attacker,High,Navigation drift anomaly,Telemetry Report
+ALT035,2026-03-02 16:00,East,Operational Data & Telemetry,DAT-01,Operational Data Manipulation,Malicious insider,Medium,Telemetry mismatch detected,Telemetry Report
+ALT036,2026-03-02 17:00,West,Administrative Control System,ADM-01,Administrative System Compromise,External attacker,High,Repeated failed privileged logins,Admin Access Log
+ALT037,2026-03-02 18:00,North,Dispatch Control System,DCS-01,Dispatch Control Server Disruption,Network attacker,Critical,Dispatch queue outage,Dispatch Dashboard
+ALT038,2026-03-02 19:00,South,Communication Network,COM-01,UAV Communication Interference,RF attacker,High,Telemetry loss / signal degradation,Telemetry Report
+ALT039,2026-03-02 20:00,East,Antenna Infrastructure,ANT-01,Antenna Infrastructure Compromise,Insider / physical attacker,Medium,Antenna node tamper alert,Maintenance Report
+ALT040,2026-03-02 21:00,West,Security Monitoring System,SOC-01,SOC Monitoring System Failure,Skilled attacker,Medium,Alert feed disruption,SOC Alert Feed
+ALT041,2026-03-02 22:00,North,UAV Fleet,UAV-07,UAV Navigation Manipulation,GPS spoofing attacker,High,Navigation drift anomaly,Telemetry Report
+ALT042,2026-03-02 23:00,South,Operational Data & Telemetry,DAT-01,Operational Data Manipulation,Malicious insider,Medium,Telemetry mismatch detected,Telemetry Report
+ALT043,2026-03-03 00:00,East,Administrative Control System,ADM-01,Administrative System Compromise,External attacker,High,Repeated failed privileged logins,Admin Access Log
+ALT044,2026-03-03 01:00,West,Dispatch Control System,DCS-01,Dispatch Control Server Disruption,Network attacker,Critical,Dispatch queue outage,Dispatch Dashboard
+ALT045,2026-03-03 02:00,North,Communication Network,COM-01,UAV Communication Interference,RF attacker,High,Telemetry loss / signal degradation,Telemetry Report
+ALT046,2026-03-03 03:00,South,Antenna Infrastructure,ANT-01,Antenna Infrastructure Compromise,Insider / physical attacker,Medium,Antenna node tamper alert,Maintenance Report
+ALT047,2026-03-03 04:00,East,Security Monitoring System,SOC-01,SOC Monitoring System Failure,Skilled attacker,Medium,Alert feed disruption,SOC Alert Feed
+ALT048,2026-03-03 05:00,West,UAV Fleet,UAV-07,UAV Navigation Manipulation,GPS spoofing attacker,High,Navigation drift anomaly,Telemetry Report
+ALT049,2026-03-03 06:00,North,Operational Data & Telemetry,DAT-01,Operational Data Manipulation,Malicious insider,Medium,Telemetry mismatch detected,Telemetry Report
+ALT050,2026-03-03 07:00,South,Administrative Control System,ADM-01,Administrative System Compromise,External attacker,High,Repeated failed privileged logins,Admin Access Log
+ALT051,2026-03-03 08:00,East,Dispatch Control System,DCS-01,Dispatch Control Server Disruption,Network attacker,Critical,Dispatch queue outage,Dispatch Dashboard
+ALT052,2026-03-03 09:00,West,Communication Network,COM-01,UAV Communication Interference,RF attacker,High,Telemetry loss / signal degradation,Telemetry Report
+ALT053,2026-03-03 10:00,North,Antenna Infrastructure,ANT-01,Antenna Infrastructure Compromise,Insider / physical attacker,Medium,Antenna node tamper alert,Maintenance Report
+ALT054,2026-03-03 11:00,South,Security Monitoring System,SOC-01,SOC Monitoring System Failure,Skilled attacker,Medium,Alert feed disruption,SOC Alert Feed
+ALT055,2026-03-03 12:00,East,UAV Fleet,UAV-07,UAV Navigation Manipulation,GPS spoofing attacker,High,Navigation drift anomaly,Telemetry Report
+ALT056,2026-03-03 13:00,West,Operational Data & Telemetry,DAT-01,Operational Data Manipulation,Malicious insider,Medium,Telemetry mismatch detected,Telemetry Report
+ALT057,2026-03-03 14:00,North,Administrative Control System,ADM-01,Administrative System Compromise,External attacker,High,Repeated failed privileged logins,Admin Access Log
+ALT058,2026-03-03 15:00,South,Dispatch Control System,DCS-01,Dispatch Control Server Disruption,Network attacker,Critical,Dispatch queue outage,Dispatch Dashboard
+ALT059,2026-03-03 16:00,East,Communication Network,COM-01,UAV Communication Interference,RF attacker,High,Telemetry loss / signal degradation,Telemetry Report
+ALT060,2026-03-03 17:00,West,Antenna Infrastructure,ANT-01,Antenna Infrastructure Compromise,Insider / physical attacker,Medium,Antenna node tamper alert,Maintenance Report
+ALT061,2026-03-03 18:00,North,Security Monitoring System,SOC-01,SOC Monitoring System Failure,Skilled attacker,Medium,Alert feed disruption,SOC Alert Feed
+ALT062,2026-03-03 19:00,South,UAV Fleet,UAV-07,UAV Navigation Manipulation,GPS spoofing attacker,High,Navigation drift anomaly,Telemetry Report
+ALT063,2026-03-03 20:00,East,Operational Data & Telemetry,DAT-01,Operational Data Manipulation,Malicious insider,Medium,Telemetry mismatch detected,Telemetry Report

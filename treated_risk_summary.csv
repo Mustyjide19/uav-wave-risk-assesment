@@ -1,0 +1,8 @@
+﻿EventID,SecurityEvent,Asset,ThreatSource,Likelihood,Impact,RiskScore,RiskLevel,RawRecordsUsed
+E1,Administrative System Compromise,Administrative Control System,External attacker,3,5,15,High,18
+E2,Dispatch Control Server Disruption,Dispatch Control System,Network attacker,4,5,20,Critical,19
+E3,UAV Communication Interference,Communication Network,RF attacker,3,4,12,High,18
+E4,Antenna Infrastructure Compromise,Antenna Infrastructure,Insider / physical attacker,2,4,8,Medium,18
+E5,SOC Monitoring System Failure,Security Monitoring System,Skilled attacker,2,5,10,Medium,18
+E6,UAV Navigation Manipulation,UAV Fleet,GPS spoofing attacker,3,5,15,High,17
+E7,Operational Data Manipulation,Operational Data & Telemetry,Malicious insider,2,4,8,Medium,17
