@@ -15,7 +15,7 @@ UAV Wave systems combine physical UAV operations with communication networks, co
 
 ## Attack Tree
 
-![Attack tree for loss of safe operational command and control of the UAV Wave system](diagrams/attack_tree_diagram.png)
+![Attack tree for loss of safe operational command and control of the UAV Wave system](attack_tree_diagram.png)
 
 ## Key Findings
 
@@ -31,14 +31,13 @@ Centralised control systems, communication infrastructure, and navigation mechan
 ## Repository Structure
 
 ```
+├── README.md
 ├── UAV_Wave_Risk_Assessment_Report.pdf   # Full report: methodology, threat modelling, risk matrix, recommendations
-├── diagrams/
-│   └── attack_tree_diagram.png           # Attack tree for the top-level threat event
-└── data/
-    ├── raw_soc_alerts.csv                # Simulated SOC alert records
-    ├── raw_admin_alerts.csv              # Simulated administrative access logs
-    ├── raw_uav_activity.csv              # Simulated UAV operational activity records
-    └── treated_risk_summary.csv          # Final scored risk events (likelihood, impact, risk score, risk level)
+├── attack_tree_diagram.png               # Attack tree for the top-level threat event
+├── raw_soc_alerts.csv                    # Simulated SOC alert records
+├── raw_admin_alerts.csv                  # Simulated administrative access logs
+├── raw_uav_activity.csv                  # Simulated UAV operational activity records
+└── treated_risk_summary.csv              # Final scored risk events (likelihood, impact, risk score, risk level)
 ```
 
 ## Tools Used
